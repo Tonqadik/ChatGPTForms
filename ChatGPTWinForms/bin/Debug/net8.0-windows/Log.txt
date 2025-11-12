@@ -1,0 +1,218 @@
+11/8/2025 10:57:17 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 10:57:17 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 10:57:17 AM -ERROR- El apiKey es incorrecto
+11/8/2025 10:57:17 AM -ERROR- Se ha producido un error al conectar con el API
+11/8/2025 10:58:57 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 10:58:58 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 10:58:58 AM -ERROR- El apiKey es incorrecto
+11/8/2025 10:58:58 AM -ERROR- Se ha producido un error al conectar con el API
+11/8/2025 11:01:57 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:01:57 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:01:57 AM -ERROR- El apiKey es incorrecto
+11/8/2025 11:01:57 AM -ERROR- Se ha producido un error al conectar con el APIError:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 152 MSJ:The given key was not present in the dictionary.
+11/8/2025 11:04:22 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:04:22 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:04:22 AM -ERROR- El apiKey es incorrecto
+11/8/2025 11:04:22 AM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 154 MSJ:The given key was not present in the dictionary.
+11/8/2025 11:12:20 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:12:20 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:12:21 AM -ERROR- El apiKey es incorrecto
+11/8/2025 11:12:21 AM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 154 MSJ:The given key was not present in the dictionary.
+11/8/2025 11:13:03 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:13:04 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:13:04 AM -ERROR- El apiKey es incorrecto
+11/8/2025 11:13:04 AM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 154 MSJ:The given key was not present in the dictionary.
+11/8/2025 11:13:14 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:13:14 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:13:14 AM -ERROR- El apiKey es incorrecto
+11/8/2025 11:13:15 AM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 154 MSJ:The given key was not present in the dictionary.
+11/8/2025 11:13:22 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:13:22 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:13:22 AM -ERROR- El apiKey es incorrecto
+11/8/2025 11:13:22 AM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 154 MSJ:The given key was not present in the dictionary.
+11/8/2025 11:14:13 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:14:14 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:14:14 AM -ERROR- El apiKey es incorrecto
+11/8/2025 11:14:14 AM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 154 MSJ:The given key was not present in the dictionary.
+11/8/2025 11:16:20 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:16:23 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:16:43 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:16:46 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:17:07 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:17:09 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:18:14 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:18:16 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:21:30 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:21:31 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:21:31 AM -ERROR- El apiKey es incorrecto
+11/8/2025 11:21:31 AM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 155 MSJ:The given key was not present in the dictionary.
+11/8/2025 11:23:26 AM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 11:23:27 AM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 11:23:27 AM -ERROR- El apiKey es incorrecto
+11/8/2025 11:23:27 AM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 156 MSJ:The given key was not present in the dictionary.
+11/8/2025 12:18:51 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 12:18:52 PM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 12:18:52 PM -ERROR- El apiKey es incorrecto
+11/8/2025 12:18:52 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 158 MSJ:The given key was not present in the dictionary.
+11/8/2025 12:19:24 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 12:19:25 PM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 12:19:25 PM -ERROR- El apiKey es incorrecto
+11/8/2025 12:19:25 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 161 MSJ:The given key was not present in the dictionary.
+11/8/2025 12:40:09 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 12:40:10 PM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 12:40:10 PM -ERROR- El apiKey es incorrecto
+11/8/2025 12:40:10 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 164 MSJ:The given key was not present in the dictionary.
+11/8/2025 12:40:18 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 12:40:19 PM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 12:40:19 PM -ERROR- El apiKey es incorrecto
+11/8/2025 12:40:19 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 164 MSJ:The given key was not present in the dictionary.
+11/8/2025 12:41:04 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/8/2025 12:41:04 PM -INFO-  Conexión con el API de OpenAi establecida
+11/8/2025 12:41:04 PM -ERROR- El apiKey es incorrecto
+11/8/2025 12:41:04 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Text.Json.JsonElement.GetProperty(String propertyName)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 164 MSJ:The given key was not present in the dictionary.
+11/11/2025 7:46:34 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 7:47:05 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 7:47:20 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 7:47:20 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 7:47:20 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 163 MSJ:No such host is known. (api.openai.com:443)
+11/11/2025 7:47:26 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 7:47:26 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 7:47:26 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 163 MSJ:No such host is known. (api.openai.com:443)
+11/11/2025 7:47:28 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 7:47:28 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 7:47:28 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 163 MSJ:No such host is known. (api.openai.com:443)
+11/11/2025 7:47:41 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 7:47:42 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 7:47:42 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 163 MSJ:No such host is known. (api.openai.com:443)
+11/11/2025 7:50:15 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 7:50:15 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 7:50:15 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 163 MSJ:No such host is known. (api.openai.com:443)
+11/11/2025 7:50:19 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 7:50:19 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 7:50:19 PM -ERROR- Se ha producido un error al conectar con el API Error:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 163 MSJ:No such host is known. (api.openai.com:443)
+11/11/2025 7:54:19 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 7:57:46 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:03:04 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:09:44 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:10:11 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:10:14 PM -INFO-  Conexión con el API de OpenAi establecida
+11/11/2025 8:10:32 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:17:35 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:18:22 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:18:22 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 8:23:12 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:23:12 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 8:24:16 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:24:16 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 8:24:20 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:24:20 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 8:24:24 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:24:24 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 8:24:46 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:24:48 PM -INFO-  Conexión con el API de OpenAi establecida
+11/11/2025 8:25:20 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:25:21 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 8:33:47 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:33:49 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:33:49 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:33:50 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:35:24 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:35:25 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:35:25 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:35:25 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:35:44 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:35:45 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:35:45 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:35:45 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:36:20 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:37:27 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:37:28 PM -ERROR- Se ha producido un error al conectar con el API Error:    at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 212
+   at ChatGPTWinForms.Form1.EnviarPrompt(String msj) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 50 MSJ:Exception of type 'System.Exception' was thrown.
+11/11/2025 8:37:33 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:37:33 PM -ERROR- Se ha producido un error al conectar con el API Error:    at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 212
+   at ChatGPTWinForms.Form1.EnviarPrompt(String msj) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 50 MSJ:Exception of type 'System.Exception' was thrown.
+11/11/2025 8:37:49 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:37:49 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 8:37:53 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:37:53 PM -ERROR- No se pudo conectar. Intenta de nuevo
+11/11/2025 8:43:42 PM -ERROR- Se ha producido un error al conectar con el API Error:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.File.ReadAllText(String path, Encoding encoding)
+   at ChatGPTWinForms.OpenAiAPI.apiAi(String msj, List`1 ListaMensajes) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 166
+   at ChatGPTWinForms.Form1.EnviarPrompt(String msj) in C:\c#proyectos\ChatGPTWinForms\Form1.cs:line 50 MSJ:Could not find file 'C:\c#proyectos\ChatGPTWinForms\bin\Debug\net8.0-windows\apikey.txt'.
+11/11/2025 8:44:12 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:44:13 PM -INFO-  Conexión con el API de OpenAi establecida
+11/11/2025 8:44:29 PM -INFO-  Iniciado conexión con el api de OpenAI...
+11/11/2025 8:44:32 PM -INFO-  Conexión con el API de OpenAi establecida
+11/11/2025 8:44:56 PM -INFO-  Iniciado conexión con el api de OpenAI...
